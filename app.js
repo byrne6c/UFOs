@@ -6,7 +6,8 @@ console.log("hello wolrd!");
 let tbody = d3.select("tbody");
 console.log(data);
 function buildTable(data) {
-data.forEach(function(dataRow) {
+tbody.html("");
+  data.forEach(function(dataRow) {
     console.log(dataRow);
     let row = tbody.append("tr");
     Object.entries(dataRow).forEach(function([key, value]) {
