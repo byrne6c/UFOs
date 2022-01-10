@@ -13,6 +13,7 @@ For example, when user searchin for UFO sightings in the state of Alaska, the ta
 ![Screen Shot 2022-01-09 at 11 28 25 PM](https://user-images.githubusercontent.com/91990957/148718494-8db29ddc-2056-4543-b185-762d984bf3a7.png)
 
 ## Summary: 
-One potential drawback of this 
+One potential drawback of this layout is that there are no links to the sources used for this data, there is no contact info listed, or extension of features for the user to use.
 Recommendations: 
-* 
+* I would suggest including tabs that can cycle on the homepage from displaying the data to maybe an "About Me" section of the article's author, or links to where user's can continue researching on their own & increase credibility of the webpage.  
+* I would also suggest linking any external links to the information provided within each sighting list. Example: "Go to www.UFOstudies.net for more information". A Frequently Asked Questions tab would help in improving the attentiveness to the users.   
